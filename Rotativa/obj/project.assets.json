@@ -13678,11 +13678,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\l_san\\Desktop\\Rotativa\\Rotativa\\Rotativa.csproj",
+      "projectUniqueName": "C:\\Users\\l_san\\Documents\\GitHub\\Rotativa\\Rotativa\\Rotativa.csproj",
       "projectName": "Rotativa",
-      "projectPath": "C:\\Users\\l_san\\Desktop\\Rotativa\\Rotativa\\Rotativa.csproj",
+      "projectPath": "C:\\Users\\l_san\\Documents\\GitHub\\Rotativa\\Rotativa\\Rotativa.csproj",
       "packagesPath": "C:\\Users\\l_san\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\l_san\\Desktop\\Rotativa\\Rotativa\\obj\\",
+      "outputPath": "C:\\Users\\l_san\\Documents\\GitHub\\Rotativa\\Rotativa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
